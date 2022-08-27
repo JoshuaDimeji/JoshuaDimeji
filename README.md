@@ -9,5 +9,5 @@ I'm Joshua Ogungbenro
 - 📫 How to reach me: joshuaogungbenro@gmail.com 
 - 😄 Fun fact: I love cruise and banter
 - ⚡ Wanna connect? The mail above and Twitter: @JoshuaDimeji3
---- Gracias
+- Gracias
 -->
