@@ -1,16 +1,13 @@
 ### Hi there 👋
+I'm Joshua Ogungbenro
 
-<!--
-**JoshuaDimeji/JoshuaDimeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently getting trained at ALX_Africa
+- 🌱 I’m currently learning C 
+- 👯 I’m looking to collaborate on different problem solving projects
+- 🤔 I’m looking for help with frontend and backend programming
+- 💬 Ask me about C, C++ languages. I also have knowledge on Cryptocurrency
+- 📫 How to reach me: joshuaogungbenro@gmail.com 
+- 😄 Fun fact: I love cruise and banter
+- ⚡ Wanna connect? The mail above and Twitter: @JoshuaDimeji3
+--- Gracias
 -->
